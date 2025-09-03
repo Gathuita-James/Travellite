@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SCH123",
+    "operator_id": "OP_MASH",
+    "route_id": "NBO-MBA",
+    "depart_at": "2025-08-22T08:30:00Z",
+    "arrive_at": "2025-08-22T14:00:00Z",
+    "duration_minutes": 330,
+    "bus_type": "Luxury",
+    "stops": ["Nairobi", "Emali", "Mtito Andei", "Mombasa"],
+    "fares": [
+      { "class": "ECONOMY", "currency": "KES", "amount": 1800 },
+      { "class": "VIP", "currency": "KES", "amount": 2500 }
+    ],
+    "seats_available": 23
+  },
+  {
+    "id": "SCH124",
+    "operator_id": "OP_EASY",
+    "route_id": "NBO-MBA",
+    "depart_at": "2025-08-22T09:00:00Z",
+    "arrive_at": "2025-08-22T14:30:00Z",
+    "duration_minutes": 330,
+    "bus_type": "Standard",
+    "stops": ["Nairobi", "Machakos", "Emali", "Mombasa"],
+    "fares": [
+      { "class": "ECONOMY", "currency": "KES", "amount": 1600 },
+      { "class": "VIP", "currency": "KES", "amount": 2200 }
+    ],
+    "seats_available": 15
+  },
+  {
+    "id": "SCH125",
+    "operator_id": "OP_MASH",
+    "route_id": "NBO-KSM",
+    "depart_at": "2025-08-22T07:00:00Z",
+    "arrive_at": "2025-08-22T15:00:00Z",
+    "duration_minutes": 480,
+    "bus_type": "Luxury",
+    "stops": ["Nairobi", "Nakuru", "Eldoret", "Kisumu"],
+    "fares": [
+      { "class": "ECONOMY", "currency": "KES", "amount": 2200 },
+      { "class": "VIP", "currency": "KES", "amount": 3000 }
+    ],
+    "seats_available": 18
+  }
+]

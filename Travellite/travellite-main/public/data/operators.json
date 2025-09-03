@@ -1,0 +1,5 @@
+[
+  { "id": "OP_MASH", "name": "Mash Poa", "rating": 4.5, "logo": "/logos/mashpoa.svg" },
+  { "id": "OP_EASY", "name": "Easy Coach", "rating": 4.2, "logo": "/logos/easycoach.svg" },
+  { "id": "OP_MODERN", "name": "Modern Coast", "rating": 4.0, "logo": "/logos/moderncoast.svg" }
+]

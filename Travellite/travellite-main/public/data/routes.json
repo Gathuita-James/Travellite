@@ -1,0 +1,5 @@
+[
+  { "id": "NBO-MBA", "origin": "Nairobi", "destination": "Mombasa", "distance_km": 485 },
+  { "id": "NBO-KSM", "origin": "Nairobi", "destination": "Kisumu", "distance_km": 350 },
+  { "id": "MBA-NBO", "origin": "Mombasa", "destination": "Nairobi", "distance_km": 485 }
+]
